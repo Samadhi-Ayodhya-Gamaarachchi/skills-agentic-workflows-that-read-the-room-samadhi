@@ -17,5 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- GitHub continues to expand GitHub Copilot capabilities across development workflows.
-- New updates and improvements are regularly published on the GitHub Blog and GitHub Changelog.
+- **New workflow: Weekly Comment Sync** (from Awesome Copilot Workflows, updated April 2026):
+  - Finds stale code comments or README snippets, makes text-only synchronization updates, and opens a draft pull request when changes are needed.
+  - See: [Awesome Copilot Workflows](https://awesome-copilot.github.com/workflows/)
+- Stay tuned to the [GitHub Blog](https://github.blog/latest/) and [Changelog](https://github.blog/changelog/) for the latest features and improvements.
